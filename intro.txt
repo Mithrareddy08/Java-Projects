@@ -1,0 +1,4 @@
+                    INTRODUCTION
+
+Myself Sangamithra. Overall, I have 9 years of experience in developing software applications, testing, production support and maintenance. Moreover, I also have experience in several domains like finance and healthcare. I also have experience on backend platform using API, Microservices and Data driven System and I also worked on frontend using JavaScript, Type Script and Frameworks like Angular, React and Node. Moreover, I also worked on several technologies like spring, Hibernate, Kubernetes and I have used the latest CI/CD tool for deployment purpose and AWS for Infrastructure Set up and deployment Purpose. I also used Git as a version control tool.
+Coming to my recent project with fidelity investments, here I am working as a Sr Full Stack Developer. There I have developed several Backend features and I also worked on enhancing and developing new API for platform.
