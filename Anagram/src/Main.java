@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
@@ -8,6 +7,7 @@ public class Main {
 
         Scanner s = new Scanner(System.in);
         String s1 = s.nextLine();
+
         Scanner st = new Scanner(System.in);
         String s2 = s.nextLine();
         s1 = s1.toLowerCase();
